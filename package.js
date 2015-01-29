@@ -1,7 +1,7 @@
 Package.describe({
   name: 'kenlimmj:markdown-it',
   summary: 'Wrapper for the markdown-it parser.',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/kenlimmj/meteor-markdown-it.git'
 });
 
