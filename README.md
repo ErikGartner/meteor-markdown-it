@@ -1,11 +1,11 @@
-# MarkdownIt
+# meteor-markdown-it
 
-Packages [MarkdownIt](https://github.com/markdown-it/markdown-it) for use in Meteor.
+This wrapper adds markdown-it to the client and server side. Read more at: https://github.com/markdown-it/markdown-it
 
-## Instructions
-
-This package initializes MarkdownIt in the client and server namespace as ``markdownIt``. In other words, where one would have previously required the package like so (in a Node app, for example):
+Available in the namespace as:
 ```js
-var markdownIt = require('markdown-it');
+MarkdownIt
 ```
-One may now go forth and use ``markdownIt`` directly, expecting similar behavior.
+
+## Acknowledgements
+- This package is forked from: kenlimmj

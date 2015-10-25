@@ -1,12 +1,12 @@
 Package.describe({
-  name: 'kenlimmj:markdown-it',
-  summary: 'Wrapper for the markdown-it parser.',
-  version: '1.0.2',
-  git: 'https://github.com/kenlimmj/meteor-markdown-it.git'
+  name: 'smoiz:markdown-it',
+  summary: 'Wrapper for markdown-it 5.0.',
+  version: '1.0.0',
+  git: 'https://github.com/smoiz/meteor-markdown-it.git'
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.0.2.1');
+  api.versionsFrom('1.2.0.2');
   api.addFiles('markdown-it.min.js');
-  api.export("markdownIt");
+  api.export("MarkdownIt");
 });
