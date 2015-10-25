@@ -4,7 +4,7 @@ This wrapper adds markdown-it to the client and server side. Read more at: https
 
 Available in the namespace as:
 ```js
-MarkdownIt
+markdownit
 ```
 
 ## Acknowledgements

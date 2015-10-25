@@ -1,7 +1,7 @@
 Package.describe({
   name: 'smoiz:markdown-it',
   summary: 'Wrapper for markdown-it 5.0.',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/smoiz/meteor-markdown-it.git'
 });
 
